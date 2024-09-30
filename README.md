@@ -58,5 +58,5 @@
 -	No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
 
 ***Preview***
-- ![Drum Kit Preview](./DrumKit-Preview.mp4)
+- ![Drum Kit Preview](./DrumKit_Preview.mp4)
 
