@@ -38,16 +38,21 @@ This project is a simple web-based Drum Kit where users can interact with differ
 - To set up and run the Drum Kit project on your local machine, follow these steps:
 1.	Download or Clone the Repository:
 -	You can either download the project files as a ZIP from the repository or use Git to clone the repository:
-  ![image](https://github.com/user-attachments/assets/0512ea85-da0f-4197-9b9a-b5a16944d194)
+  
+![image](https://github.com/user-attachments/assets/51e00e2f-500b-4bbb-81f1-cdae23e89db1)
 
 2.	Navigate to the Project Directory:
 -	Once you have the files, open the terminal and navigate to the project directory:
-                 - **cd <project-directory>**
+  
+![image](https://github.com/user-attachments/assets/0512ea85-da0f-4197-9b9a-b5a16944d194)
+  
 3.	Open the Project in a Browser:
 -	Since the project is built using HTML, CSS, and JavaScript, you can simply open the index.html file in any modern web browser:
 - If you are using the command line, you can open the file directly:
-               - **open index.html  # For MacOS**
-               - **start index.html  # For Windows**
+
+ ![image](https://github.com/user-attachments/assets/750d7998-3a1e-4cd3-a9d5-6e6ff205272e)
+
 4.	Enjoy Playing the Drum Kit:
 -	Once the page loads in your browser, you can interact with the drum kit by either clicking on the images or pressing the keys (W, A, S, D, J, K, L) to play different drum sounds.
+  
 -	No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
