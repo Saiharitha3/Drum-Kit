@@ -58,5 +58,6 @@
 -	No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
 
 ***Preview***
-- (./DrumKit_Preview.mp4)
+- [![Drum Kit Preview](./Drum-kit.png)](https://drive.google.com/file/d/174owndlacjaMnkfHfxR9Og-1IV1-b9m0/view?usp=sharing)
+
 
