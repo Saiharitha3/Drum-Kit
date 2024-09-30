@@ -1,13 +1,13 @@
-**Drum Kit**
+<center> <h1 style="font-size: 36px;"> "***Drum Kit***" </h1></center>
 - This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.
 
-**Features**
-- **Interactive Drum Images**  : Users can click on drum images corresponding to various drum sounds.
-- **Keyboard Support**         : Drum sounds can also be triggered by pressing specific keys on the keyboard (`W`, `A`, `S`, `D`, `J`, `K`, `L`).
-- **Responsive Design**        : The drum kit layout adjusts to different screen sizes.
-- **Animations**               : When keys are pressed, they are visually animated for a better user experience.
+***Features***
+  - "🎵 **Interactive Drum Images**: Users can click on visually appealing drum images to play corresponding sounds."
+  - "🎹 **Keyboard Support**: Drum sounds can also be triggered by pressing specific keys (`W`, `A`, `S`, `D`, `J`, `K`, `L`)."
+  - "📱 **Responsive Design**: The layout adjusts to different screen sizes, ensuring a smooth experience across all devices."
+  - "🎨 **Animations**: Keys are visually animated upon pressing, enhancing the user experience with dynamic feedback."
 
-**Key Bindings**
+***Key Bindings***
 
 - **W**  : Pressing the W key will play the Tom-1 drum sound.
 - **A**  : Pressing the A key will play the Tom-2 drum sound.
