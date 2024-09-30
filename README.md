@@ -1,21 +1,21 @@
-**Drum Kit**
+6**Drum Kit**
 This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.
 
 **Features**
-- **Interactive Drum Images**: Users can click on drum images corresponding to various drum sounds.
-- **Keyboard Support**: Drum sounds can also be triggered by pressing specific keys on the keyboard (`W`, `A`, `S`, `D`, `J`, `K`, `L`).
-- **Responsive Design**: The drum kit layout adjusts to different screen sizes.
-- **Animations**: When keys are pressed, they are visually animated for a better user experience.
+- **Interactive Drum Images**  : Users can click on drum images corresponding to various drum sounds.
+- **Keyboard Support**         : Drum sounds can also be triggered by pressing specific keys on the keyboard (`W`, `A`, `S`, `D`, `J`, `K`, `L`).
+- **Responsive Design**        : The drum kit layout adjusts to different screen sizes.
+- **Animations**               : When keys are pressed, they are visually animated for a better user experience.
 
 **Key Bindings**
 
-- **W**: Pressing the W key will play the Tom-1 drum sound.
-- **A**: Pressing the A key will play the Tom-2 drum sound.
-- **S**: Pressing the S key will play the Tom-3 drum sound.
-- **D**: Pressing the D key will play the Tom-4 drum sound.
-- **J**: Pressing the J key will play the Snare drum sound.
-- **K**: Pressing the K key will play the Crash cymbal sound.
-- **L**: Pressing the L key will play the Kick Bass drum sound.
+- **W**  : Pressing the W key will play the Tom-1 drum sound.
+- **A**  : Pressing the A key will play the Tom-2 drum sound.
+- **S**  : Pressing the S key will play the Tom-3 drum sound.
+- **D**  : Pressing the D key will play the Tom-4 drum sound.
+- **J**  : Pressing the J key will play the Snare drum sound.
+- **K**  : Pressing the K key will play the Crash cymbal sound.
+- **L**  : Pressing the L key will play the Kick Bass drum sound.
 
 **Technologies Used**
 - **HTML**: Structure of the web page.
