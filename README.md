@@ -1,4 +1,4 @@
-<center> <h1 style="font-size: 36px;"> "***Drum Kit***" </h1></center>
+<center> <h1 style="font-size: 36px; font-family: 'Roboto', sans-serif; font-weight: bold;"> Drum Kit </h1></center>
 - This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.
 
 ***Features***
