@@ -56,3 +56,7 @@
 -	Once the page loads in your browser, you can interact with the drum kit by either clicking on the images or pressing the keys (W, A, S, D, J, K, L) to play different drum sounds.
   
 -	No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
+
+***Preview***
+- ![Drum Kit Preview](./DrumKit-Preview.mp4)
+
