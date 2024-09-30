@@ -1,5 +1,5 @@
 **Drum Kit**
-This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.
+- This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.
 
 **Features**
 - **Interactive Drum Images**  : Users can click on drum images corresponding to various drum sounds.
