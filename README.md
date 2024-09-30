@@ -38,7 +38,8 @@ This project is a simple web-based Drum Kit where users can interact with differ
 - To set up and run the Drum Kit project on your local machine, follow these steps:
 1.	Download or Clone the Repository:
 -	You can either download the project files as a ZIP from the repository or use Git to clone the repository:
-                - **git clone <repository-url>**
+  ![image](https://github.com/user-attachments/assets/0512ea85-da0f-4197-9b9a-b5a16944d194)
+
 2.	Navigate to the Project Directory:
 -	Once you have the files, open the terminal and navigate to the project directory:
                  - **cd <project-directory>**
