@@ -1,4 +1,4 @@
-6**Drum Kit**
+**Drum Kit**
 This project is a simple web-based Drum Kit where users can interact with different drum sounds by clicking on images or pressing specific keys on the keyboard.
 
 **Features**
@@ -30,23 +30,23 @@ This project is a simple web-based Drum Kit where users can interact with differ
 
 **File Structure**
 
-- 'index.html`: The main HTML file that structures the page and contains the drum buttons.
+- `index.html`: The main HTML file that structures the page and contains the drum buttons.
 - `styles.css`: Contains the styles for the drum kit, including background images, fonts, colors, and button animations.
 - `index.js`: JavaScript file handling the event listeners for button clicks and key presses, playing the appropriate sound, and triggering animations.
 
 **How to Run the Project**
-To set up and run the Drum Kit project on your local machine, follow these steps:
+- To set up and run the Drum Kit project on your local machine, follow these steps:
 1.	Download or Clone the Repository:
-o	You can either download the project files as a ZIP from the repository or use Git to clone the repository:
-                 **git clone <repository-url>**
+-	You can either download the project files as a ZIP from the repository or use Git to clone the repository:
+                - **git clone <repository-url>**
 2.	Navigate to the Project Directory:
-o	Once you have the files, open the terminal and navigate to the project directory:
-                 **cd <project-directory>**
+-	Once you have the files, open the terminal and navigate to the project directory:
+                 - **cd <project-directory>**
 3.	Open the Project in a Browser:
-o	Since the project is built using HTML, CSS, and JavaScript, you can simply open the index.html file in any modern web browser:
-o If you are using the command line, you can open the file directly:
-                **open index.html  # For MacOS**
-                **start index.html  # For Windows**
+-	Since the project is built using HTML, CSS, and JavaScript, you can simply open the index.html file in any modern web browser:
+- If you are using the command line, you can open the file directly:
+               - **open index.html  # For MacOS**
+               - **start index.html  # For Windows**
 4.	Enjoy Playing the Drum Kit:
-o	Once the page loads in your browser, you can interact with the drum kit by either clicking on the images or pressing the keys (W, A, S, D, J, K, L) to play different drum sounds.
-No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
+-	Once the page loads in your browser, you can interact with the drum kit by either clicking on the images or pressing the keys (W, A, S, D, J, K, L) to play different drum sounds.
+-	No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
