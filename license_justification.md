@@ -1,17 +1,18 @@
-#### Why I Chose the GNU GPL License
 
-I have applied the GNU General Public License (GPL) v3 to this repository for the following reasons:
+
+#### The Reasons I choose For MIT License
+
+I have applied the MIT License to this repository for the following reasons:
 
 1. ***Software Freedom***  
-   - GPL is liberal license that supports the user rights to execute, modify and distribute the software without any hindrance. It helps to guarantee everyone elementary benefits and a possibility for his or her participation in the project.
+   - The MIT License is an open source referencing license which allows users free usage, copying, modification and distribution of the software. This makes it possible for anyone to be allowed to benefit from it as well as be part of the project.
 
-2. ***Copyleft Protection***  
-   - Just like with any other licenses based on the GNU license, one of the main provisions of the GPL is the copyleft provision. From this code, any revisions, improvements or adaptations must be distributed under the GPL license. This ensures that the software is independent and continuously owned by subsequent users without the相關 private impressions and ownership.
+2. ***Flexibility***  
+   - The MIT License also permits modifications ad redistributions for any use, including for proprietary purposes. This makes the software to be easily embraced by the users and developers since it is free from restriction and the sources can be easily integrated with other projects without having to influence the license in their projects.
 
-3. ***From Encouraging Open Collaboration***  
-   - That is why through the GPL I want to get as many contributors as possible who can work on this issue without any restrictions. The license guarantees that added values and variations in turn always remain accessible to all – which is conducive to collective development.
+3. ***Open Collaboration – or – How Change Really Happens***  
+   - As for the license, I picked the MIT License because I would like the number of contributors to be as large as possible and with as few licensing restrictions as possible. This is because the many restrictions in legal documents have a way of putting off people and make contribution impossible for many people.
 
-4. ***Transparency and Accessibility*** 
-   - The GPL encourages openness for a simple reason that the source code has to be presented every time the software is distributed. What it means is that users can learn how the code functions, check for one or many vulnerabilities and even rewrite some portion of the code if needed.
-
+4. ***Accessibility***  
+   - The MIT License is beneficial also to the third party because it full opens the source for third party use and distribution of the product. Users can now read through the code, assess for possible enhancements, as well as apply them to other projects leading to high levels of openness and engagement.
 
