@@ -64,3 +64,8 @@
 [Watch the video here](https://drive.google.com/file/d/174owndlacjaMnkfHfxR9Og-1IV1-b9m0/view?usp=sharing)
 
 [![Drum Kit Preview Image](./Drum-kit.png)](https://drive.google.com/file/d/174owndlacjaMnkfHfxR9Og-1IV1-b9m0/view?usp=sharing)
+
+
+## License
+
+All projects and packages in this repository are [MIT licensed](/LICENSE).
