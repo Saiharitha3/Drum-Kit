@@ -30,12 +30,12 @@
 2. **Key Presses**: Users can press the designated keys to trigger corresponding drum sounds.
 3. **Animation**: The pressed buttons get a temporary animation to enhance the visual experience.
 
-### 📂 **File Structure**
+### 📂 ***File Structure***
 - `index.html`: The main HTML file that structures the page and contains the drum buttons.
 - `styles.css`: Contains the styles for the drum kit, including background images, fonts, colors, and button animations.
 - `index.js`: JavaScript file handling the event listeners for button clicks and key presses, playing the appropriate sound, and triggering animations.
 
-### 🚀 **How to Run the Project**
+### 🚀 ***How to Run the Project***
 - To set up and run the Drum Kit project on your local machine, follow these steps:
 1.	Download or Clone the Repository:
 -	You can either download the project files as a ZIP from the repository or use Git to clone the repository:
@@ -58,7 +58,7 @@
   
 -	No additional setup or dependencies are required, as the project runs purely on client-side web technologies (HTML, CSS, and JavaScript).
 
-### 🎬 **Preview**
+### 🎬 ***Preview***
 **Watch a preview of the Drum Kit in action:**
 
 [Watch the video here](https://drive.google.com/file/d/174owndlacjaMnkfHfxR9Og-1IV1-b9m0/view?usp=sharing)
@@ -66,6 +66,7 @@
 [![Drum Kit Preview Image](./Drum-kit.png)](https://drive.google.com/file/d/174owndlacjaMnkfHfxR9Og-1IV1-b9m0/view?usp=sharing)
 
 
-## License
+## 🔑 ***License***
 
 All projects and packages in this repository are [MIT licensed](/LICENSE).
+
